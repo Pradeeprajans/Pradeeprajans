@@ -52,6 +52,7 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 
 ## 📜 Certifications & Highlights
 
+- 🎓 IABAC Certified Data Scientist  
 - 🎓 NASSCOM Certified Data Scientist – via DataMites  
 - 💻 Data Science Intern – DataMites  
 - 💼 Former Sales Analyst – Casagrand Builders  
