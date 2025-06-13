@@ -63,7 +63,7 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 
 ## 📫 Let’s Connect
 
-📧 Email: pradeeprajan.ds@gmail.com  
+📧 Email: pradeeeprajan.ds@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pradeeprajan) | [GitHub](https://github.com/Pradeeprajans)
 
 ---
