@@ -44,7 +44,7 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 ## 🧠 Skills & Tools
 
 - **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **ML Techniques:** Regression, Classification, Clustering, Time Series  
 - **Other Tools:** Jupyter Notebook, Power BI, Tableau, Git, Excel
 
@@ -53,7 +53,7 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 ## 📜 Certifications & Highlights
 
 - 🎓 IABAC Certified Data Scientist  
-- 🎓 NASSCOM Certified Data Scientist – via DataMites  
+- 🎓 NASSCOM Certified Data Scientist
 - 💻 Data Science Intern – DataMites  
 - 💼 Former Sales Analyst – Casagrand Builders  
 - 🛠 Delivered CRM-driven insights for performance optimization  
