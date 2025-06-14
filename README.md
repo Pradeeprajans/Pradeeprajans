@@ -9,35 +9,35 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 ### 🧑‍💼 Employee Performance Analysis
 **Goal:** Identify key factors affecting employee performance and predict future success.  
 **Tech:** Python, Pandas, SMOTE, Random Forest, Power BI  
-🔗 [View Project](https://github.com/Pradeeprajans/Employee-Performance-Analysis)
+🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/Employee-Performance-Analysis)
 
 ---
 
 ### 🏠 House Price Prediction
 **Goal:** Predict property prices using regression models and feature engineering techniques.  
 **Tech:** Python, Scikit-learn, Linear Regression, Feature Selection  
-🔗 [View Project](https://github.com/Pradeeprajans/House-price-prediction)
+🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/House-price-prediction)
 
 ---
 
 ### 🚲 Bike Rental Prediction
 **Goal:** Forecast hourly bike rental demand using weather and seasonal data.  
 **Tech:** XGBoost, Time Series, Feature Engineering  
-🔗 [View Project](https://github.com/Pradeeprajans/Bike-rental-Prediction)
+🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/Bike-rental-Prediction)
 
 ---
 
 ### 🌾 Rice Leaf Disease Prediction
 **Goal:** Classify rice leaf diseases using image processing and deep learning.  
 **Tech:** TensorFlow, CNN, Image Classification, Keras  
-🔗 [View Project](https://github.com/Pradeeprajans/Rice-Leaf-Disease-Prediction)
+🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/Rice-Leaf-Disease-Prediction)
 
 ---
 
 ### 💉 Vaccination Prediction
 **Goal:** Predict vaccination likelihood and behaviors based on survey and health data.  
 **Tech:** Logistic Regression, EDA, Scikit-learn, Data Visualization  
-🔗 [View Project](https://github.com/Pradeeprajans/Vaccination-prediction)
+🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/Vaccination-prediction)
 
 ---
 
@@ -78,9 +78,8 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 
 ## 📫 Let’s Connect
 
-📧 Email: pradeeeprajan.ds@gmail.com  
+📧 Email: pradeeeprajans@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pradeeprajan) | [GitHub](https://github.com/Pradeeprajans)
 
 ---
 
-⭐ *“Fueling data-driven decisions, one model at a time.”*
