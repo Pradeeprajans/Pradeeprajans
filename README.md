@@ -81,7 +81,7 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 ## 📫 Let’s Connect
 
 📧 Email: pradeeeprajans@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pradeeprajan) | [GitHub](https://github.com/Pradeeprajans)
+🔗 [LinkedIn](https://www.linkedin.com/in/pradeeprajans) | [GitHub](https://github.com/Pradeeprajans)
 
 ---
 
