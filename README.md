@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** who transforms data into powerful business insights and predictive solutions. From predicting house prices to diagnosing rice leaf diseases — I love solving real-world problems using data!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Pradeeprajans&label=Profile+Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Pradeeprajans&label=Profile+Views&color=0e75b6&style=plastic)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pradeeprajans&label=Profile+Views&color=0e75b6&style=flat-square" alt="Pradeeprajans" />
 </p>
