@@ -67,14 +67,14 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 
 ---
 
-## 📜 Certifications & Highlights
+## 🎓 Certifications
 
-- 🎓 IABAC Certified Data Scientist  
-- 🎓 NASSCOM Certified Data Scientist
-- 💻 Data Science Intern – DataMites  
-- 💼 Former Sales Analyst – Casagrand Builders  
-- 🛠 Delivered CRM-driven insights for performance optimization  
-- 👨‍💼 3+ years of Business Development & Strategic Sales experience
+- **IABAC**: Certified Data Scientist 
+- **DataMites**: NASSCOM Certified Data Scientist  
+- **Great Learning**: Web Scraping with Python  
+- **CODEBASICS**: Python Beginner to Advanced for Data Professionals  
+- **SimpliLearn**: Power BI  
+- **Coursera (IBM)**: Data Analysis with Python  
 
 ---
 
