@@ -10,14 +10,14 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 
 ### 🧑‍💼 Employee Performance Analysis
 **Goal:** Identify key factors affecting employee performance and predict future success.  
-**Tech:** Python, Pandas, SMOTE, Random Forest, Power BI  
+**Tech:** Python, Pandas, SMOTE,Logistic Regression, Random Forest, Feature Selection, Power BI  
 🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/Employee-Performance-Analysis)
 
 ---
 
 ### 🏠 House Price Prediction
 **Goal:** Predict property prices using regression models and feature engineering techniques.  
-**Tech:** Python, Scikit-learn, Linear Regression, Feature Selection  
+**Tech:** Python, Pandas, Numpy, Scikit-learn, Linear Regression, XGboost, Catboost, Feature Selection  
 🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/House-price-prediction)
 
 ---
