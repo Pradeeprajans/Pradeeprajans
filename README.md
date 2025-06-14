@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pradeep Rajan
+# 👋 Hi, My name is Pradeep Rajan
 
 I'm a **Data Scientist** who transforms data into powerful business insights and predictive solutions. From predicting house prices to diagnosing rice leaf diseases — I love solving real-world problems using data!
 
