@@ -60,7 +60,7 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-2E294E?style=flat&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Time Series:**  
-![ARIMA](https://img.shields.io/badge/ARIMA-559AEA?style=flat)  
+![ARIMA](https://img.shields.io/badge/ARIMA-559AEA?style=flat) ![SARIMAX](https://img.shields.io/badge/SARIMAX-9B59B6?style=flat)  
 
 **Environment & Workflow:**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
