@@ -56,6 +56,9 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 🧠 Classification  
 🔍 Clustering
 
+**Statistics:**  
+Descriptive Stats · Probability · Hypothesis Testing · Inferential Stats · A/B Testing
+
 **Visualization:**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-2E294E?style=flat&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
