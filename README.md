@@ -36,13 +36,6 @@ I'm a **Data Scientist** who transforms data into powerful business insights and
 
 ---
 
-### 💉 Vaccination Prediction
-**Goal:** Predict vaccination likelihood and behaviors based on survey and health data.  
-**Tech:** Logistic Regression, EDA, Scikit-learn, Data Visualization  
-🔗 [Click Here to View Project Repo](https://github.com/Pradeeprajans/Vaccination-prediction)
-
----
-
 ## 🛠️ Tools & Technologies
 
 **Languages & Tools:**  
@@ -67,17 +60,6 @@ Descriptive Stats · Probability · Hypothesis Testing · Inferential Stats · A
 
 **Environment & Workflow:**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎓 Certifications
-
-- **IABAC**: Certified Data Scientist 
-- **DataMites**: NASSCOM Certified Data Scientist  
-- **Great Learning**: Web Scraping with Python  
-- **CODEBASICS**: Python Beginner to Advanced for Data Professionals  
-- **SimpliLearn**: Power BI  
-- **Coursera (IBM)**: Data Analysis with Python  
 
 ---
 
